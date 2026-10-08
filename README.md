@@ -1,4 +1,4 @@
-# TP5 : Gestion de Salles avec JPA, JPQL, Criteria API et Pagination
+# TP5 : Gestion de Salles avec JPA, JPQL, Criteria API et Pagination::
 
 ## 🎯 Objectifs du TP
 Ce TP a pour objectif de maîtriser l'implémentation de requêtes complexes avec **JPA** et **Hibernate** dans un contexte d'application Java EE de gestion de salles de réunion/formation :
